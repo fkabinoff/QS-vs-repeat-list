@@ -1,0 +1,14 @@
+{
+	"name": "vs-repeat-list",
+	"description": "Qlik Sense Extension showing use of angular-vs-repeat to render list",
+	"type": "visualization",
+	"version": "1.0.0",
+	"author": "Francis Kabinoff",
+	"homepage": "",
+	"keywords": "qlik-sense, visualization, virtual-scroll, performance",
+	"license": "",
+	"repository": "",
+	"dependencies": {
+		"qlik-sense": ">=1.0.x"
+	}
+}
